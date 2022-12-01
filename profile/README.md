@@ -4,9 +4,7 @@ Lit is Decentralized Cryptography for Access Control, Compute, and Encryption
 
 ## Highlights
 
-You are probably here for this - the [lit-js-sdk](https://github.com/LIT-Protocol/lit-js-sdk).   
-
-If not, perhaps the [share-modal (v3!)](https://github.com/LIT-Protocol/lit-share-modal-v3), or a list of our [open grants](https://github.com/LIT-Protocol/LitGrants) ?  
+You are probably here for this - the [lit-js-sdk](https://github.com/LIT-Protocol/lit-js-sdk).   If not, perhaps the [share-modal (v3!)](https://github.com/LIT-Protocol/lit-share-modal-v3), or a list of our [open grants](https://github.com/LIT-Protocol/LitGrants) ?  
 
 Don't forget to check out the [awesome list](https://github.com/LIT-Protocol/awesome) - A collection of tools, examples, integrations and other resources for Lit Protocol. Get inspired!
 
