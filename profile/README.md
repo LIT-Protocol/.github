@@ -15,7 +15,3 @@ Don't forget to check out the [awesome list](https://github.com/LIT-Protocol/awe
 [Read the developer docs](https://developer.litprotocol.com/Introduction/whatIsLitProtocol) to find out what Lit Protocol is all about!  Need the [API spec](https://), a list of [supported chains](https://developer.litprotocol.com/Support/supportedChains), or maybe the current [status of the nodes](https://stats.uptimerobot.com/nopYgiXkLw)?   Want to mint a PKP and automate wallet actions? Use the [Explorer](https://explorer.litprotocol.com/) and get started with [Lit Actions](https://developer.litprotocol.com/coreConcepts/LitActionsAndPKPs/litActions)
 
 You can also catch us hanging out in [discord](https://discord.com/invite/GnTtFukpHq), or [get in touch](https://airtable.com/shr2NWJbH1Y6Y3kOU) with questions.
-
-## Frequently Accessed Repos
-
-List off some more commonly used repos here, along with descriptions (like the "awesome" list, but specific to our repos).
