@@ -1,4 +1,4 @@
-## Highlights
+## Automate and Free the Web!
 
 You are probably here for this - the [lit-js-sdk](https://github.com/LIT-Protocol/lit-js-sdk).   
 
