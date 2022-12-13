@@ -1,7 +1,3 @@
-## Automate & Free the Web!
-
-Lit is Decentralized Cryptography for Access Control, Compute, and Encryption
-
 ## Highlights
 
 You are probably here for this - the [lit-js-sdk](https://github.com/LIT-Protocol/lit-js-sdk).   
