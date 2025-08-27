@@ -1,11 +1,22 @@
 ## Automate and Free the Web!
 
-You are probably here for this - the [js-sdk](https://github.com/LIT-Protocol/js-sdk).   
+Lit Protocol is a decentralized (MPC TSS) key management and private compute (TEE) network. Lit provides developers building in Web3 with three core primitives:
 
-If not, perhaps the [share-modal (v3!)](https://github.com/LIT-Protocol/lit-share-modal-v3), or a list of our [open grants](https://github.com/LIT-Protocol/LitGrants) ?  Don't forget to check out the [awesome list](https://github.com/LIT-Protocol/awesome) - A collection of tools, examples, integrations and other resources for Lit Protocol. Get inspired!
+1. Decentralized Signing and Wallet Management with support for ECDSA and EdDSA signatures
 
-## Need help? 
+2. Decentralized Encryption / Decryption via an identity-based BLS encryption scheme
 
-[Read the developer docs](https://developer.litprotocol.com/whatIsLit) to find out what Lit Protocol is all about!  Need the [API spec](https://js-sdk.litprotocol.com/index.html), a list of [supported chains](https://developer.litprotocol.com/resources/supportedChains), or maybe the current [status of the nodes](https://stats.uptimerobot.com/nopYgiXkLw)?   Want to mint a PKP and automate wallet actions? Use the [Explorer](https://explorer.litprotocol.com/) and get started with [Lit Actions](https://developer.litprotocol.com/LitActions/intro)
+3. Private Compute executed via Lit's MPC TSS network and sealed via TEEs (Intel SGX).
 
-You can also catch us hanging out in [discord](https://discord.com/invite/GnTtFukpHq), or [get in touch](https://forms.gle/n4WKtsyxaduEz8dDA) with questions.
+To start building with Lit, you'll need the the [js-sdk](https://github.com/LIT-Protocol/js-sdk).
+
+To learn more about how Lit works, check out the [developer docs](https://developer.litprotocol.com/) or [security docs]((https://developer.litprotocol.com/security/introduction)).
+
+## Helpful Links
+- [Quick Start Examples for Developers](https://github.com/LIT-Protocol/developer-guides-code)
+- [SDK API Docs](https://v7-api-doc-lit-js-sdk.vercel.app/)
+
+## Get in Touch
+- [Discord](https://discord.gg/yEJSBaznBX)
+- [Telegram](https://t.me/+aa73FAF9Vp82ZjJh)
+- [X](https://x.com/LitProtocol)
