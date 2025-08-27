@@ -10,7 +10,7 @@ Lit Protocol is a decentralized (MPC TSS) key management and private compute (TE
 
 To start building with Lit, you'll need the the [js-sdk](https://github.com/LIT-Protocol/js-sdk).
 
-To learn more about how Lit works, check out the [developer docs](https://developer.litprotocol.com/) or [security docs]((https://developer.litprotocol.com/security/introduction)).
+To learn more about how Lit works, check out the [developer docs](https://developer.litprotocol.com/) or [security docs](https://developer.litprotocol.com/security/introduction).
 
 ## Helpful Links
 - [Quick Start Examples for Developers](https://github.com/LIT-Protocol/developer-guides-code)
