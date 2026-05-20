@@ -1,22 +1,26 @@
-## Automate and Free the Web!
+## Read anywhere. Compute in a TEE. Write to any chain or API.
 
-Lit Protocol is a decentralized (MPC TSS) key management and private compute (TEE) network. Lit provides developers building in Web3 with three core primitives:
+Lit Protocol is a programmable runtime for everything that has to happen between an event and a signed action. Write JavaScript. Deploy it once. It runs inside a chain-secured TEE — pulling data from any source, executing your logic, and signing on any chain or HTTPS API. No backend to trust.
 
-1. Decentralized Signing and Wallet Management with support for ECDSA and EdDSA signatures
+**[Get started → developer.litprotocol.com](https://developer.litprotocol.com/)**
 
-2. Decentralized Encryption / Decryption via an identity-based BLS encryption scheme
+### What you get
 
-3. Private Compute executed via Lit's MPC TSS network and sealed via TEEs (Intel SGX).
+- **Read** — APIs, RPCs, price feeds, on-chain state across EVM, SVM, BTC, Cosmos
+- **Compute** — your JavaScript, executed inside a hardware-attested TEE (Intel SGX), with keys that never leave the enclave
+- **Write** — sub-second threshold signing on any chain or HTTPS endpoint, using a wallet bound to your action code or one you govern on-chain
 
-To start building with Lit, you'll need the the [js-sdk](https://github.com/LIT-Protocol/js-sdk).
+The TEE's identity, the code it's allowed to run, and its signing authority are all governed on-chain. Speed of a backend, trust of a contract.
 
-To learn more about how Lit works, check out the [developer docs](https://developer.litprotocol.com/) or [security docs](https://developer.litprotocol.com/security/introduction).
+### Patterns shipping today
 
-## Helpful Links
-- [Quick Start Examples for Developers](https://github.com/LIT-Protocol/developer-guides-code)
-- [SDK API Docs](https://v7-api-doc-lit-js-sdk.vercel.app/)
+- **Cross-chain tokens** — watch burn events on one chain, sign the matching mint on another
+- **Custom price oracles** — aggregate CEX + DEX feeds, sign once, deliver to multiple chains
+- **Prediction market resolvers** — poll LLMs in a TEE, sign the consensus, post on-chain
+- **Compliance-gated transfers** — screen recipients against sanctions lists before signing
 
-## Get in Touch
+### Get in touch
+
 - [Discord](https://discord.gg/yEJSBaznBX)
 - [Telegram](https://t.me/+aa73FAF9Vp82ZjJh)
 - [X](https://x.com/LitProtocol)
